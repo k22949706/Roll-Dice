@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">擲骰子</string>
+    <string name="roll_button">擲骰子</string>
+    <string name="roll_text">骰子數為</string>
+</resources>
